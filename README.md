@@ -37,13 +37,12 @@ keygen_valdez_oscar.exe
 
 **Ejecución con el nombre `Ana`:**
 
-![Generación de llave para Ana](evidencias/ejecucion_ana.jpg)
+![Generación de llave para Ana](captura1.jpg)
 
 **Validación de nombre vacío:**
 
-![Mensaje de error al ingresar un nombre vacío](evidencias/nombre_vacio.jpg)
+![Mensaje de error al ingresar un nombre vacío](captura2.jpg)
 
-> Las capturas deben tomarse del programa ejecutado en Windows y guardarse con esos nombres en la carpeta `evidencias/`.
 
 ## Explicación del algoritmo de generación de llave
 

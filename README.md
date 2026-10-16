@@ -59,3 +59,23 @@ Llave = 0110h XOR ABCDh = AADDh
 
 Tu llave es: 000000000000AADD
 ```
+
+## Uso de inteligencia artificial
+
+Se utilizó **ChatGPT** como herramienta de apoyo durante el desarrollo del proyecto.
+
+Se utilizó para:
+
+- Analizar los requisitos e instrucciones del proyecto.
+- Apoyar la creación y organización del código en ensamblador x86-64.
+- Comprender el funcionamiento de los procedimientos `LeerNombre`, `GenerarLlave` y `ConvertirHex`.
+- Explicar instrucciones como `MOVZX`, `ADD`, `XOR`, `AND` y `SHR`.
+- Revisar el algoritmo de suma ASCII y la transformación XOR.
+- Comprender la conversión de valores de 64 bits a hexadecimal.
+- Apoyar el uso de las funciones `ReadConsoleA`, `WriteConsoleA` y `GetStdHandle`.
+- Identificar posibles errores en el código y revisar las validaciones.
+- Comprender el funcionamiento de los registros mediante x64dbg.
+- Revisar los comandos de compilación con UASM64 y GoLink.
+- Apoyar la documentación y los comentarios del código.
+
+La inteligencia artificial se utilizó como apoyo para la **generación, revisión y comprensión del código**, así como para analizar posibles errores y facilitar el entendimiento de las instrucciones utilizadas. El desarrollo se realizó tomando como referencia los requisitos establecidos por el profesor.
